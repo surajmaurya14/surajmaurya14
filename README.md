@@ -4,7 +4,7 @@
     <p><img src="https://komarev.com/ghpvc/?username=surajmaurya14&color=red"/></p>
 </a>
 
-<h4 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm a 2022 Graduated Computer Engineering Student 👨‍💼 from  SLRTCE, University of Mumbai, Maharashtra, India who has good knowledge and also hands-on experience in DSA & Problem Solving ⚒ and Full-stack Web Development. I have successfully deployed many Web Applications with MERN. In my free time, you'll find me playing multiplayer battle royale games and Chess, trying various Debian or Arch-based distros and cycling in good weather. Below are the profiles related to DSA and my Social Contact Links
+<h4 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm a 2022 Graduated Computer Engineering Student 👨‍💼 from  SLRTCE, University of Mumbai, Maharashtra, India who has good knowledge and also hands-on experience in DSA & Problem Solving ⚒ and Full-stack Web Development. I have successfully deployed many Web Applications with MERN. In my free time, you'll find me playing multiplayer battle royale games and Chess, trying various Debian or Arch-based distros and cycling in good weather. Below are the profiles related to DSA and my Social Contact Links
 </h4>
 
 <!--
