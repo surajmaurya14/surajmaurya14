@@ -177,8 +177,8 @@ Fault-tolerant, multithreaded scraper in Go with rotating proxies, rate-limiting
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=surajmaurya14&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajmaurya14&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
